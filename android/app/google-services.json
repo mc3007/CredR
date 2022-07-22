@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "578783404203",
+    "project_id": "rilstate-dff01",
+    "storage_bucket": "rilstate-dff01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578783404203:android:56f85561b8eaaf597d97ee",
+        "android_client_info": {
+          "package_name": "com.example.ril_state"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578783404203-a0m960l98jliffdf7kmiljvb38qljm5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8EZVWB6KJcjGR30gPCpCt7hwX7r4N40s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578783404203-a0m960l98jliffdf7kmiljvb38qljm5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
